@@ -1,4 +1,4 @@
-📈 TradeWave – Stock Market Analysis & Admin Dashboard
+# 📈 TradeWave – Stock Market Analysis & Admin Dashboard
 
 TradeWave is a Python-based CLI (Command-Line Interface) application designed for administrative management and analytical visualization of stock market data. It uses MySQL as the backend database and Matplotlib for graphical stock trend analysis.
 
